@@ -1,7 +1,7 @@
 # Nameless Program #3
 
 ## Program Contents
-```
+```yaml
 NUMBER^_H_2^_z_2^_x_%_
 ```
 
@@ -9,6 +9,18 @@ NUMBER^_H_2^_z_2^_x_%_
 
 This unnamed program will verify whether an input number is even or odd. It'll return 1 when even, 0 when odd
 
-## How does it work
+## Usage
 
-Divide the input by two, and multiply it by two. If the result is the same, then the number is even. Otherwise, it is odd.
+To use it, replace `NUMBER` by your number to check. For example, to check if 15 is even:
+
+```yaml
+15^_H_2^_z_2^_x_%_
+# Output --> 0
+```
+
+To check if 14 is odd:
+
+```yaml
+14^_H_2^_z_2^_x_%_
+# Output --> 1
+```

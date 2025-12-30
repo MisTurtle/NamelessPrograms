@@ -1,7 +1,7 @@
 # Nameless Program #1
 
 ## Program Contents
-```
+```yaml
 STRING^_ ^_E_A_D_
 ```
 
@@ -15,3 +15,9 @@ It can be used to remove spaces in a string ! How useful ^w^
 
 Replace STRING at the beginning of the program with your own payload. 
 
+For example, to remove spaces in `This string has spaces, how inconvenient...`, run as:
+
+
+```yaml
+STRING^_ ^_E_A_D_
+```
