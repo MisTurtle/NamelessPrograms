@@ -11,9 +11,6 @@ aU_fileU_toU_testU_thisU_programi_txt^_i_^_b_H_2^_|_)_V_b_1^_0^_#_J_^_E_ ^_D_Y_^
 
 This unnamed program will count the number of double quoted strings in a file. An example file is provided : [a_file_to_test_this_program.txt](a_file_to_test_this_program.txt).
 
-> **Note:**
-> Hmm, I haven't tried, but it's probably possible to delete important files with this if modified, so...
-
 ## Usage
 
 To try your own file, either replace the content of the provided file, or change the path at the beginning of the program (starting from `aU_fileU_`... until `_txt`).
