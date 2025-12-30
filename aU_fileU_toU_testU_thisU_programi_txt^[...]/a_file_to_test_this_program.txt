@@ -1,0 +1,12 @@
+This file has a title for descriptive purposes. It hardly can be considered as a name as it is simply a description of what it is used for. Anyways, here are some strings:
+
+"This will count as the first string since it is in double quotes !"
+"And this will
+also count as
+one
+more string"
+
+And "1 more", that's three !
+Let's expect "4" as an output :)
+
+"This will not, however, since the double quote is never closed...
