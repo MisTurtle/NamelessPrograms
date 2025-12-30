@@ -1,5 +1,7 @@
 # Nameless Program #4
 
+> **Warning**: The `|` character in the folder name to this file was replaced with a `l` due to windows not allowing it. It should, however, indeed be a `|` character
+
 ## Program Contents
 ```yaml
 aU_fileU_toU_testU_thisU_programi_txt^_i_^_b_H_2^_|_)_V_b_1^_0^_#_J_^_E_ ^_D_Y_^_E_H_\$_H_H_2^_z_2^_x_%_G_2^_z_G_-_G_X_v_ strings^_
